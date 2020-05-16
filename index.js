@@ -6,7 +6,7 @@ function writeCards(names, eventName){
   return msg;
 }
 
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
+writeCards(["Lisa", "Brendan", "Ali"], "birthday");
 
 function countDown(positiveInt){
   while(positiveInt>=0){
